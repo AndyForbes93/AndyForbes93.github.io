@@ -81,7 +81,7 @@ h1{
     position:absolute;
 }
 a:hover{
-    background-color: rgb(107, 114, 161);
+    color: rgb(107, 114, 161);
 }
 .forms{
     width:100%;
